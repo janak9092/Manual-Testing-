@@ -1,0 +1,38 @@
+ manaul testing projectg 
+----------------------
+session 1
+
+https://demo.opencart.com/
+
+1.project introduction 
+2.Review & Analyze the Requirement/functionality
+3.Prepare Test Plan
+4.Create Test Scenario
+5.Create Test Cases,Review, Requirement Tracebility Matrix 
+6.Test Envrionment Setup
+      XAMPP software download & install 
+7.Build Deployment
+      Opencart software install
+8.Test Execution
+9.Bug Reporting & Tracking
+10.smoke testing ,Sanity Testing, Re-Testing, Regression Testing
+11.Test Phase Sign Off
+
+Ecommerce Application
+--------------------------------
+1.Login to application
+2.search the product
+3.add product to wishlist
+4.add product to cart
+5.make payment
+6.return the product
+
+ part of ecommerce application 
+------------------------------
+forntend - user/public access through internet
+backend - access by admin in their enviroment through internet
+
+
+
+
+E libreliyer management  
